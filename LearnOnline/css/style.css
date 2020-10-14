@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-size: 18px;
+}
+
+.first-block{
+    margin: 50px 155px;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.blocklogo{
+    display:flex;
+    margin-top:12px;
+    }
+.ll{
+    display:flex;
+}
+
+.namelogo{
+    font-size:28px;
+    color: royalblue;
+    margin-top: 12px;
+    margin-left: 14px;
+}
+.logolink{
+    margin-bottom:-14px;
+    text-decoration:none;
+    color:grey;
+}
+.logolink:hover{
+    color: darkblue;
+    transition-delay: 0.15s;
+}
+.login{
+   margin-left: 10px; 
+   margin-bottom: -8px;
+   
+}
